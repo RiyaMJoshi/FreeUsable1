@@ -1,0 +1,3 @@
+# FreeUsable1
+
+The project is named FreeUsable which will be a website where people will be able to give away their stuff for free. Nowadays, we see that we have so many things with us which are no longer useful for ourselves and might be useful for someone else. The idea is that if someone has an object (Book, Table, Lamp, Crockery, etc) and they want to give it away for free, they can just put it up on the site and when someone in need of that object searches, it can visit the site and contact the user and take it. The project aims for reducing the clutter and making life easy.
